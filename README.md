@@ -2,6 +2,7 @@
 
 We've developed a system that employs CWT for feature extraction from ECG signals and CNNs for classification. The system is trained and tested on ECG data to accurately classify it into Arrhythmia (ARR), Congestive Heart Failure (CHF), and Normal Sinus Rhythm (NSR).
 
+The dataset repo link: https://github.com/mathworks/physionet_ECG_data/
 
 ## Technical Details
 
