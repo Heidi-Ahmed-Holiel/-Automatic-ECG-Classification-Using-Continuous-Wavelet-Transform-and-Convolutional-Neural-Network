@@ -25,7 +25,7 @@ The dataset repo link: https://github.com/mathworks/physionet_ECG_data/
 ## Results
 
 - The performance of each model is evaluated based on accuracy and computational efficiency.
-- VGG-16 emerged as the most accurate model, albeit with higher computational demands.
+- VGG-16 emerged as the most accurate model with accuracy 88%, albeit with higher computational demands.
 
 ## Conclusion
 
